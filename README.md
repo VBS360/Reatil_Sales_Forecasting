@@ -1,2 +1,2 @@
-![Retail_Sales_Forecasting_Project](https://github.com/user-attachments/assets/d7db4ce8-dd31-4ec6-9410-029ec7eee9a6)
+![Retail_Sales_Forecasting_Project_Updated](https://github.com/user-attachments/assets/1937ae3f-d274-4ea2-8217-62d2fa392ca6)
 [Retail Sales Prediction.pptx](https://github.com/user-attachments/files/15862310/Retail.Sales.Prediction.pptx)
